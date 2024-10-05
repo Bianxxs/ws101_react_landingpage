@@ -46,7 +46,7 @@ body{
 }
   
 .logo a {
-    margin-left: -8rem;
+    margin-left: -3rem;
     font-size: 1.7rem;
     font-weight: 700;
     color: var(--primary-color);
