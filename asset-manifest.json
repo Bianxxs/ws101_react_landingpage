@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.71d5c1da.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.de8a9bef.js",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.71d5c1da.css.map": "/ws101_react_landingpage/static/css/main.71d5c1da.css.map",
+    "main.de8a9bef.js.map": "/ws101_react_landingpage/static/js/main.de8a9bef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d5c1da.css",
+    "static/js/main.de8a9bef.js"
+  ]
+}
